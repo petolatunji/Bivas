@@ -6,7 +6,7 @@ const Offer = () => {
       <div className='w-[1400px] grid sm:grid-cols-2'>
         <div className='flex-1 '>
           <h1 className='text-[#FFA500] text-5xl font-bold p-4'>
-            We offer our customers a deeper understanding of markets needs
+            We offer our customers a deeper understanding of markets needs gkglgl
           </h1>
         </div>
         <div className='flex-1 '>
